@@ -1,0 +1,15 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small; 
+    color: black;
+    background-color: lightblue;
+}
+.div1{
+    font-family: monospace;
+}
+.div2{
+    font-size: 50px; 
+}
+.div3{
+    color: blue;
+}
